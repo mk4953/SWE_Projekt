@@ -37,3 +37,4 @@ networks:
     driver: bridge
 volumes:
   dbdata:
+    external: true
