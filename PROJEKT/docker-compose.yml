@@ -38,4 +38,4 @@ networks:
   web_nw:
     driver: bridge
 volumes:
-    dbdata:
+  dbdata:
